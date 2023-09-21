@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  list-style-type: none;
+}
+
+body {
+  margin: 15px;
+}
+
+.botoes {
+  position: relative;
+}
+
+button{
+  font-size: 1.2rem;
+  padding: .6rem .9rem;
+  border-radius: 4px;
+  background: #0B5ED7;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+}
